@@ -1,6 +1,6 @@
 # Final Project 2 - MyGram App
 
-Final Projek Kelas Kominfo. Membuat aplikasi MyGram
+Final Projek Kominfo x Hackti8. My Gram Application API
 
 # Swagger UI
 
